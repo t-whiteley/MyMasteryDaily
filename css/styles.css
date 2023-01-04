@@ -109,11 +109,21 @@ h1, h2, h3, h4, h5, h6 {
   border-radius: 2rem;
 }
 
+/* 
+Blog overview
+ */
+.cat-tag-overview {
+  margin: auto;
+  text-align: right;
+}
+
+
 /*
  * Blog posts
  */
 .blog-post {
   padding: 1% 3%;
+  margin: 4% 10%;
 }
 .blog-post-title {
   margin-bottom: .25rem;
